@@ -1,0 +1,11 @@
+C:\Users\tomty\source\repos\SACtask1\SACtask1\bin\Debug\SACtask1.exe.config
+C:\Users\tomty\source\repos\SACtask1\SACtask1\bin\Debug\SACtask1.exe
+C:\Users\tomty\source\repos\SACtask1\SACtask1\bin\Debug\SACtask1.pdb
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.csproj.AssemblyReference.cache
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.Form1.resources
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.Properties.Resources.resources
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.csproj.GenerateResource.cache
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.csproj.CoreCompileInputs.cache
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.exe
+C:\Users\tomty\source\repos\SACtask1\SACtask1\obj\Debug\SACtask1.pdb
